@@ -1,0 +1,12 @@
+{
+    "name": "petersuhm/dummy-package",
+    "description": "Just a dummy package",
+    "authors": [
+        {
+            "name": "Peter Suhm",
+            "email": "peter@suhm.dk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
